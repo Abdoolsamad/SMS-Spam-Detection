@@ -120,6 +120,14 @@ The Streamlit application provides:
 - Classification results.
 - Estimated spam and ham probabilities.
 
+  ## Project Screenshots
+
+### Ham Message Detection
+![Ham Detection](screenshots/ham-detection.png)
+
+### Spam Message Detection
+![Spam Detection](screenshots/spam-detection.png)
+
 ## Project Structure
 
 ```text
